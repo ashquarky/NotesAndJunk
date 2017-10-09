@@ -8,7 +8,7 @@ First few digits of l = Physical address
 |---|---|---|---|
 |0|F40003FF|00000012|MEM1|
 |1|E00007FF|14000012|Bucket memory|
-|2|FE0000FE|1C000012||
+|2|FE0000FE|1C000012|Unknown, only valid in kernelmode|
 |3|10001FFF|50000012|MEM2|
 |4|FA0001FF|1A000013||
 |5|008000FF|30800012|HBL code mapping|
